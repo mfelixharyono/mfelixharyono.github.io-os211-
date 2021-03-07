@@ -2,7 +2,7 @@
 layout: "layout"
 permalink: /REPORT/00/
 ---
-[HOME](../) ---
+[HOME](../../) ---
 [LOG CODE INFO](https://osp4diss.vlsm.org/ETC/logCodes.txt) ---
 [PAGES](../GitHubPages/) ---
 [STATUS](../STATUS/)
